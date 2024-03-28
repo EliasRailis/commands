@@ -23,6 +23,7 @@
 - `Ctrl+b+<number>` to swtich between windows
 - `Ctrl+b+,` to rename a window
 - `Ctrl+b+d` to detach from session
+- type `exit` on the open you would like to close
 
 ## Vim
 
