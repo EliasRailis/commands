@@ -32,3 +32,6 @@
 - `d` to create a new directory
 - `:Ex` to open netrw
 - `D` to delete a specific directory
+
+## Setting up ZSH
+https://itsfoss.com/zsh-ubuntu/
