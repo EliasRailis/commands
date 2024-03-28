@@ -24,3 +24,10 @@
 - `Ctrl+b+,` to rename a window
 - `Ctrl+b+d` to detach from session
 
+## Vim
+
+- `vim .` or `nvim .` to open netrw
+- `%` to create a new file
+- `d` to create a new directory
+- `:Ex` to open netrw
+- `D` to delete a specific directory
