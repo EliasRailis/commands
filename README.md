@@ -1,3 +1,11 @@
+## Curl
+- Check if `curl` is installed with the following command `curl --version`
+- If installed we get the following output `curl 7.68.0 (x86_64-pc-linux-gnu) libcurl/7.68.0 ...`
+- Else install with `sudo apt update && apt install curl -y`
+
+## Neovim
+- To install the latest version of Neovim [link](https://mansoorbarri.com/neovim-debian/)
+
 ## i3 window manager
 
 - `Alt+d` for searching an application
